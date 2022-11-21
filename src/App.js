@@ -8,14 +8,14 @@ function App() {
     <div className='gradient__bg'>
       <Navbar/>
       <Header/>
-      </div>
+    </div>
       <Brand/>
       <WhatGTP3/>
       <Features/>
       <Possibility/>
       <CTA/>
       <Blog/>
-     <Footer/>
+      <Footer/>
     
     </div>
   );
