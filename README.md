@@ -1,3 +1,9 @@
+
+
+https://mysitemochap.netlify.app/
+
+https://www.figma.com/file/Qyv9t39WMRgIu9rCgLaVBf/Untitled?node-id=0%3A1&t=Ramrp7uaqndjN5cU-1
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
